@@ -28,7 +28,7 @@ The mod hooks into the Windows API (`user32.dll`) to directly resize and reposit
 
 ## Installation
 
-1. Install [BepInEx](https://github.com/BepInEx/BepInEx) for Gorilla Tag (IL2CPP version)
+1. Install [BepInEx](https://github.com/BepInEx/BepInEx) for Gorilla Tag (win-x64)
 2. Drop `GorillaWindowController.dll` into `BepInEx/plugins/`
 3. Launch the game — press **F8** to open the window controller GUI
 
